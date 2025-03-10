@@ -1,3 +1,8 @@
+# ATAK - Search and Rescue
+
+The goal of this project is to trim down ATAK to become a simple to deploy solution for private and public search and rescue opperations, with the addition of Flight Planner capabilities for camera drone control.
+
+-----------------------------------------------
 # AndroidTacticalAssaultKit-CIV
 
 This repository contains the source code for the Android Tactical Assault Kit for Civilian Use (ATAK-CIV), the official geospatial-temporal and situational awareness tool used by the US Government. ATAK-CIV is managed by the Tactical Assault Kit Configuration Steering Board (TAK CSB) and is designed for use by federal employees. 
